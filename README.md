@@ -1,3 +1,3 @@
 Curso Git e GitHub Testes
--[] Teste1
--[] Teste 2
+-[x] Teste1
+-[x] Teste 2
